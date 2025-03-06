@@ -1,11 +1,11 @@
-# ✨ Hi there! I'm Akhil P Nath 👋  
+# ✨ Hi there! I'm **Akhil P Nath** 👋  
 ## 🚀 Associate Software Engineer | Full-Stack Developer  
 
-I have a passion for building **scalable** and **efficient** web applications. I specialize in **PHP, Laravel, and full-stack development**, constantly exploring new technologies to improve my work.  
+I am passionate about building **scalable** and **efficient** web applications. I specialize in **PHP, Laravel, and full-stack development**, constantly exploring new technologies to improve my work.  
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilpnath&show_icons=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilpnath&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
@@ -13,7 +13,7 @@ I have a passion for building **scalable** and **efficient** web applications. I
 
 ---
 
-### 💻 Tech Stack  
+## 💻 Tech Stack  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -23,7 +23,7 @@ I have a passion for building **scalable** and **efficient** web applications. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
@@ -31,7 +31,10 @@ I have a passion for building **scalable** and **efficient** web applications. I
 
 ---
 
-### 📞 Connect with Me  
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J1M2EwMWsxN2tiYnVkamFuNXlrZGRhazVrMGZ0Z2l6cWcweWlwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+
+## 📞 Connect with Me  
 <div align="center">
   <a href="https://www.instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -49,14 +52,16 @@ I have a passion for building **scalable** and **efficient** web applications. I
 
 ---
 
-### 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akhilpnath&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### 🐍 Snake Animation  
+## 🐍 Snake Animation  
 <img src="https://raw.githubusercontent.com/akhilpnath/akhilpnath/output/snake.svg" alt="Snake Animation" />
 
 ---
+
+
